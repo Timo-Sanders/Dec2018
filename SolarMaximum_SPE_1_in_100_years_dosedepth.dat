@@ -22,8 +22,8 @@
 # Earth shadow          : YES
 # Confidence level =  99.9
 # Mission start = 2012
-# Lifetime : 4.00 years 
-# period during solar activity : 4.0 DAYS
+# Lifetime : 4.00 Days 
+# period during solar activity : 4.0 Days
 # ENERGY        DIFFERENTIAL_FLUENCE
 #  Mev          [s-1.Mev-1.m-2.sr-1]
 0.10     	2.678E+11	
