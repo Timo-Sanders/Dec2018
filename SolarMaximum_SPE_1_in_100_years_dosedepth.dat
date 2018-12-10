@@ -8,10 +8,10 @@
 # ===========Orbit data============
 # Perigee                    =    90000.000 km
 # Apogee                     =    90000.000 km
-# Inclination                =        0.000 ° 
-# Perigee_Argument           =        0.000 ° 
-# Ascending_node             =        0.000 ° 
-# True_Anomaly               =        0.000 ° 
+# Inclination                =        0.000 Â° 
+# Perigee_Argument           =        0.000 Â° 
+# Ascending_node             =        0.000 Â° 
+# True_Anomaly               =        0.000 Â° 
 # Period                     =        297770 s 
 # Number of orbits           = 423.6
 # Number of points per orbit = 100
@@ -23,7 +23,7 @@
 # Confidence level =  99.9
 # Mission start = 2012
 # Lifetime : 4.00 years 
-# period during solar activity : 4.0 years 
+# period during solar activity : 4.0 DAYS
 # ENERGY        DIFFERENTIAL_FLUENCE
 #  Mev          [s-1.Mev-1.m-2.sr-1]
 0.10     	2.678E+11	
